@@ -1,4 +1,4 @@
-Credit Card Default Risk Prediction
+**Credit Card Default Risk Prediction**
 
 Built an end-to-end Machine Learning project to predict credit card default risk using the UCI Credit Card Default dataset (30,000 customer records). The project focuses on helping financial institutions identify high-risk customers and reduce potential credit losses through proactive risk management.
 
