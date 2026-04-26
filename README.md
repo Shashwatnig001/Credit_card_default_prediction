@@ -9,8 +9,8 @@ Compared Random Forest and XGBoost models for prediction
 Used hyperparameter tuning with Stratified Cross Validation
 Implemented SHAP for model explainability
 Achieved ~85% Accuracy and ~0.87 ROC-AUC with tuned XGBoost
-🛠 **Tech Stack**
 
+🛠 **Tech Stack**
 Python, Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn, SHAP
 
 📁 **Dataset**
